@@ -18,7 +18,7 @@
 
 - **[Twitch](https://www.twitch.tv/timber1900)** Timber1900
 - **[YouTube](https://www.youtube.com/c/TheTimber1900)** Timber1900
-- **[Steam](https://steamcommunity.com/id/TheDudeTimber/)** Timber1900
+- **[Steam](https://steamcommunity.com/id/timber1900/)** Timber1900
 - 🎮 **Discord** Timber1900#6379
 
 
