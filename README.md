@@ -2,10 +2,10 @@
 
 - I'm a self-taught developer based in **Portugal**.
 - The following are some of the technologies that have picked my interest or that I use very often:
-  - Python
+  - Typescript
   - JavaScript
+  - Python
   - C#
-  - Kotlin
   
 <details>
   <summary><b>Click to view my GitHub statistics</b></summary>
@@ -19,7 +19,7 @@
 - **[Twitch](https://www.twitch.tv/timber1900)** Timber1900
 - **[YouTube](https://www.youtube.com/c/TheTimber1900)** Timber1900
 - **[Steam](https://steamcommunity.com/id/timber1900/)** Timber1900
-- 🎮 **Discord** Timber1900#0001
+- 🎮 **Discord** Timber1900#1495
 
 
 <!--
